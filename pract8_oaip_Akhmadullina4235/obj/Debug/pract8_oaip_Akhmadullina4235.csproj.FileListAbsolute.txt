@@ -1,0 +1,7 @@
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\bin\Debug\pract8_oaip_Akhmadullina4235.exe.config
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\bin\Debug\pract8_oaip_Akhmadullina4235.exe
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\bin\Debug\pract8_oaip_Akhmadullina4235.pdb
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\obj\Debug\pract8_oaip_Akhmadullina4235.csproj.AssemblyReference.cache
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\obj\Debug\pract8_oaip_Akhmadullina4235.csproj.CoreCompileInputs.cache
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\obj\Debug\pract8_oaip_Akhmadullina4235.exe
+C:\Users\hworks\Desktop\lab6_oaip\pract8_oaip_Akhmadullina4235\pract8_oaip_Akhmadullina4235\obj\Debug\pract8_oaip_Akhmadullina4235.pdb
